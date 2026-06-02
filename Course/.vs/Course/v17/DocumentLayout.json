@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B436CF-6A95-4B08-A612-4CA5372CC61F}|Collection\\Collection.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B436CF-6A95-4B08-A612-4CA5372CC61F}|Collection\\Collection.csproj|solutionrelative:collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B436CF-6A95-4B08-A612-4CA5372CC61F}|Collection\\Collection.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\collection\\smartstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B436CF-6A95-4B08-A612-4CA5372CC61F}|Collection\\Collection.csproj|solutionrelative:collection\\smartstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6C618C-B886-4C91-BA1D-773B7566AFEE}|DataTypes\\DataTypes.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6C618C-B886-4C91-BA1D-773B7566AFEE}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\oop\\discountedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|solutionrelative:oop\\discountedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\oop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|solutionrelative:oop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|c:\\users\\leonid\\desktop\\c# projects\\\u043D\u043E\u0440\u0431\u0438\u0442\\course\\oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A22B15-A302-4F41-AECD-BC15FB30F2DE}|OOP\\OOP.csproj|solutionrelative:oop\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartStack.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\Collection\\SmartStack.cs",
+              "RelativeDocumentMoniker": "Collection\\SmartStack.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\Collection\\SmartStack.cs",
+              "RelativeToolTip": "Collection\\SmartStack.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:19:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\Collection\\Program.cs",
+              "RelativeToolTip": "Collection\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:19:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:07:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\DiscountedProduct.cs",
+              "RelativeDocumentMoniker": "OOP\\DiscountedProduct.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\DiscountedProduct.cs",
+              "RelativeToolTip": "OOP\\DiscountedProduct.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:56:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\Product.cs",
+              "RelativeDocumentMoniker": "OOP\\Product.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\Product.cs",
+              "RelativeToolTip": "OOP\\Product.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:56:13.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\Rectangle.cs",
+              "RelativeToolTip": "OOP\\Rectangle.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:52:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonid\\Desktop\\C# projects\\\u041D\u041E\u0420\u0411\u0418\u0422\\Course\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:44:49.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

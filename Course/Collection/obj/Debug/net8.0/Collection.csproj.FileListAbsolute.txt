@@ -1,0 +1,14 @@
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\bin\Debug\net8.0\Collection.exe
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\bin\Debug\net8.0\Collection.deps.json
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\bin\Debug\net8.0\Collection.dll
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\bin\Debug\net8.0\Collection.pdb
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.dll
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\refint\Collection.dll
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.pdb
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+C:\Users\Leonid\Desktop\C# projects\НОРБИТ\Course\Collection\obj\Debug\net8.0\ref\Collection.dll
