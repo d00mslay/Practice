@@ -1,0 +1,2 @@
+E:\University\3_course\Практики\Производственная\FinalTask\finaltask.client\obj\Debug\finaltask.client.esproj.CoreCompileInputs.cache
+E:\University\3_course\Практики\Производственная\Practice\FinalTask\finaltask.client\obj\Debug\finaltask.client.esproj.CoreCompileInputs.cache

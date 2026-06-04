@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+body {
+    background: rgb(86, 18, 91);
+    background: linear-gradient(339deg, rgba(86,18,91,1) 0%, rgba(40,10,80,1) 100%);
+    min-height: 100vh;
+    text-align: center
+}
+
+h1 {
+    font-family: 'Nabla', cursive;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 7em;
+}
